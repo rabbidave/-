@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.30/schema.applications.json",
+  "identify": {
+    "exe": {
+      "Taskmgr.exe": {
+        "border": true,
+        "tiling": "enable",
+        "float_rules": []
+      }
+    }
+  },
+  "options": {
+    "borders": true,
+    "force_manage_all_windows": false
+  }
+}
